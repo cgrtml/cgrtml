@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cgrtml&label=Profile%20views&color=0e75b6&style=flat" alt="cgrtml" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cgrtml" alt="cgrtml" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/cagritml" target="blank"><img src="https://img.shields.io/twitter/follow/cagritml?logo=twitter&style=for-the-badge" alt="cagritml" /></a> </p>
 
 - 🔭 I’m currently working as a **Senior Software QA Engineer**
@@ -12,6 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/cagritml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cagritml" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cagritemel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cagritemel" height="30" width="40" /></a>
 <a href="https://medium.com/@cagritemel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cagritemel" height="30" width="40" /></a>
 </p>
 
