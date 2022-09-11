@@ -46,7 +46,7 @@
    <p
       <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
       
-      <a href="https://cucumber.io" target="_blank" rel="noreferrer"> <img src="![cucumberio-icon](https://user-images.githubusercontent.com/9119933/189551189-d7a04fdc-e810-4a1f-b207-cb661bc48ab8.svg)" alt="cucumber" width="40" height="40"/> </a>
+      <a  [`/images`](https://github.com/cucumber-ltd/brand/tree/master/images) alt="cucumber" width="40" height="40"/> </a>
     
       
       </p>
