@@ -1,4 +1,4 @@
-<h1>Java and Selenium Instructor</h1>
+<h1>Software Development Engineer in Test (SDET)</h1>
 
 ![snake gif](https://github.com/cgrtml/snake-gif/blob/main/github-contribution-grid-snake.gif)
 
