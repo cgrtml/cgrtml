@@ -62,7 +62,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cgrtml&show_icons=true&locale=en&layout=compact" alt="cgrtml" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cgrtml&show_icons=true&locale=en" alt="cgrtml" /></p>
+<p> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cgrtml&show_icons=true&locale=en" alt="cgrtml" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cgrtml&" alt="cgrtml" /></p>
 
