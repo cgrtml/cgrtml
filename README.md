@@ -1,4 +1,4 @@
-<h1>Java ve Selenium Instructor</h1>
+<h1>Java and Selenium Instructor</h1>
 
 ![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
 
