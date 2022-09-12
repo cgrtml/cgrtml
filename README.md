@@ -1,6 +1,6 @@
 <h1>Java and Selenium Instructor</h1>
 
-![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/cgrtml/snake-gif/blob/main/github-contribution-grid-snake.gif)
 
 <h1 align="center">Hi 👋, I'm Cagri Temel</h1>
 <h3 align="center">Software Development Engineer in Test(SDET) Manual and Automation Testing</h3>
