@@ -1,5 +1,4 @@
 <h1>Software Development Engineer in Test (SDET)</h1>
-![cucumber-mark-green](images/png/notm/cucumber-mark-green/cucumber-mark-green-128.png)
 
 ![snake gif](https://github.com/cgrtml/snake-gif/blob/main/github-contribution-grid-snake.gif)
 
