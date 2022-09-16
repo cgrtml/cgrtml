@@ -52,10 +52,7 @@
       <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/cgrtml/snake-gif/blob/main/testng-tutorial.png?raw=true" alt="TesTNG" width="50" height="50"/> </a> 
       <a href="[https://cucember.io" target="_blank" rel="noreferrer"> <img src="https://github.com/cgrtml/snake-gif/blob/main/cucumber-testing-tutorial.png?raw=true" alt="cucember" width="50" height="50"/> </a> 
       
-      <a href="https://cucember.io" target="_blank" rel="noreferrer"> <img src="https://github.com/cgrtml/snake-gif/blob/main/restasssured.png?raw=true" alt="RestAssure" width="40" height="40"/> </a> 
-      
-      
-      </p>
+      <a href="https://cucember.io" target="_blank" rel="noreferrer"> <img src="https://github.com/cgrtml/snake-gif/blob/main/restasssured.png?raw=true" alt="RestAssure" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Tools:</h3>
 <p align="left"> 
