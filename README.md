@@ -71,4 +71,3 @@
 
 <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cgrtml&" alt="cgrtml" /> </p>
 
-<p> src="http://www.rleonardi.com/interactive-resume/" </p>
