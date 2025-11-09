@@ -3,7 +3,7 @@
 ![snake gif](https://github.com/cgrtml/snake-gif/blob/main/github-contribution-grid-snake.gif)
 
 <h1 align="center">Hi 👋, I'm Cagri Temel</h1>
-<h3 align="center">Software Development Engineer in Test(SDET) Manual and Automation Testing</h3>
+<h3 align="center">CTO | ML Engineer | IEEE Senior Member | AAAI Member | M.S. CS | LLMs, Retrieval, MLOps | Turning Data into Products | Advisory Board Member</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cgrtml&label=Profile%20views&color=0e75b6&style=flat" alt="cgrtml" /> </p>
 
