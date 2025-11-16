@@ -12,7 +12,7 @@
 <a href="https://instagram.com/cgrtml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cgrtml" height="30" width="40" /></a>
 </p>
 
-- 🔭 I’m currently working as a **Senior Software QA Engineer/SDET**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
