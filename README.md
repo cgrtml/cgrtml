@@ -123,10 +123,3 @@ Languages     Python · C / C++ · Java · MATLAB · SQL
 Hardening **ReasonGate** toward something a security team would actually deploy · extending **neural-trees** past tabular data · writing up the SMC 2026 work · reviewing for AIES 2026.
 
 Happy to talk about explainable AI in regulated domains, LLM reliability and evaluation, or where chain-of-thought safety goes next — [get in touch](https://cagritemel.com/contact.html).
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cgrtml/snake-gif/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Cagri Temel's GitHub contribution graph, consumed by a snake" src="https://raw.githubusercontent.com/cgrtml/snake-gif/output/github-contribution-grid-snake.svg">
-</picture>
