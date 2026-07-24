@@ -22,14 +22,7 @@
 
 A model that explains itself is not the same as a model you can trust. The explanation has to be **load-bearing** — checkable *before* the action happens, not narrated afterward to make the output feel reasonable.
 
-```mermaid
-flowchart LR
-    A[Model proposes<br/>an action] --> B{Is the reasoning<br/>verifiable?}
-    B -->|no| C[Blocked, with<br/>a written reason]
-    B -->|yes| D[Action, with<br/>an audit trail]
-```
-
-Same question in three places: in robots (**CT-SAFR**), in LLM applications (**ReasonGate**), and inside the model itself (**neural-trees**).
+So the useful question is never "can the model explain itself" but "can the explanation be checked, and what happens when it fails." I chase that in three places: in robots (**CT-SAFR**), in LLM applications (**ReasonGate**), and inside the model itself (**neural-trees**).
 
 ## Building
 
