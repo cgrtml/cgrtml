@@ -1,4 +1,9 @@
-<h1 align="center">Cagri Temel</h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cgrtml/snake-gif/main/name-snake-dark.svg">
+    <img alt="Cagri Temel" src="https://raw.githubusercontent.com/cgrtml/snake-gif/main/name-snake-light.svg" width="100%">
+  </picture>
+</p>
 
 <p align="center">
   <strong>I build AI whose reasoning you can audit.</strong><br>
