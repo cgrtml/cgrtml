@@ -44,4 +44,7 @@ Verification and auditability for AI systems deployed where the output has conse
 
 **Service** — Technical program committee: IEEE BigData 2026 (Phoenix, December) · AAAI/ACM AIES 2026 (Malm&ouml;). Proposal review: SciPy 2026, 243 proposals · PyData Global 2026, 157 proposals (NumFOCUS). Reviewer: IEEE SMC · CAI · ECCE 2026. Organizer of the special session on trustworthy and explainable AI for telepresence and autonomous robotic systems, IEEE Telepresence 2026. Session chair, IEEE SoutheastCon 2026.
 
+
+**Judging &amp; mentorship** — Industry mentor, Penn &times; Anthropic Sprint Hackathon (220+ participants, 130+ teams) &middot; Judge, Vibe Space @ SF Tech Week &middot; Mentor, Opportunity Hack / ASU &middot; Jury member, ANTSPARK pre-incubation programme.
+
 Full record, talks and CV at **[cagritemel.com](https://cagritemel.com)**.
