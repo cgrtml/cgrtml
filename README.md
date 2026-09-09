@@ -28,7 +28,7 @@ Some of the strongest methods in machine learning never leave the paper they wer
 | **[neural-trees](https://github.com/cgrtml/neural-trees)** | Soft decision trees, hierarchical mixture of experts and the 5×2cv F test, behind a scikit-learn API on a PyTorch backend. A gap in a table is not a result until it survives a significance test. | [`pip install neural-trees`](https://pypi.org/project/neural-trees/) |
 | **[reasongate](https://github.com/cgrtml/reasongate)** | A self-hostable gate for LLM applications. Answers `allow`, `flag` or `block` with the reason and an audit record attached. Pure Python, zero dependencies, no network calls. | [`pip install reasongate`](https://pypi.org/project/reasongate/) |
 | **[ml-playground](https://github.com/cgrtml/ml-playground)** | sklearn, XGBoost, LightGBM, CatBoost, TabNet and neural-trees compared side by side, with significance testing built in. | |
-| **[ml-academy](https://github.com/cgrtml/ml-academy)** | An interactive course that teaches machine learning from zero. 48 lessons, entirely in the browser. | |
+| **[ml-academy](https://github.com/cgrtml/ml-academy)** | An interactive curriculum that teaches machine learning, deep learning and large language models from zero. 123 lessons across 5 tracks, 401 interactive steps, 165 visualisations, in English and Turkish. Runs entirely in the browser: no install, no build step, no server. | [mltraining.org](https://mltraining.org) |
 | **[AI365](https://github.com/cgrtml/AI365)** | Daily AI, ML and robotics builds. Open and community driven. | |
 
 ## Research
