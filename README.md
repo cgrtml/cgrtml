@@ -42,9 +42,8 @@ Verification and auditability for AI systems deployed where the output has conse
 
 **Patents** — USPTO 63/975,114, safety-constrained chain-of-thought for autonomous systems, sole inventor, pending · TR 2019 22779 B, granted.
 
-**Service** — Technical program committee: IEEE BigData 2026 (Phoenix, December) · AAAI/ACM AIES 2026 (Malm&ouml;). Proposal review: SciPy 2026, 243 proposals · PyData Global 2026, 157 proposals (NumFOCUS). Reviewer: IEEE SMC · CAI · ECCE 2026. Organizer of the special session on trustworthy and explainable AI for telepresence and autonomous robotic systems, IEEE Telepresence 2026. Session chair, IEEE SoutheastCon 2026.
+**Service** — Technical program committee: IEEE BigData 2026 (Phoenix, December) · AAAI/ACM AIES 2026 (Malmö). Proposal review: SciPy 2026, 243 proposals · PyData Global 2026, 157 proposals (NumFOCUS). Reviewer: IEEE SMC · CAI · ECCE 2026. Organizer of the special session on trustworthy and explainable AI for telepresence and autonomous robotic systems, IEEE Telepresence 2026. Session chair, IEEE SoutheastCon 2026.
 
-
-**Judging &amp; mentorship** — Industry mentor, Penn &times; Anthropic Sprint Hackathon (220+ participants, 130+ teams) &middot; Judge, Vibe Space @ SF Tech Week &middot; Mentor, Opportunity Hack / ASU &middot; Jury member, ANTSPARK pre-incubation programme.
+**Judging & mentorship** — Industry mentor, Penn × Anthropic Sprint Hackathon (220+ participants, 130+ teams) · Judge, Vibe Space @ SF Tech Week · Mentor, Opportunity Hack / ASU · Jury member, ANTSPARK pre-incubation programme.
 
 Full record, talks and CV at **[cagritemel.com](https://cagritemel.com)**.
