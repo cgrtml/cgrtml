@@ -35,8 +35,8 @@ Some of the strongest methods in machine learning never leave the paper they wer
 
 Verification and auditability for AI systems deployed where the output has consequences.
 
-- **TRACE** - every autonomous action traced back to sensor evidence through a documented causal chain. IEEE SoutheastCon 2026, pp. 1–6 · [doi](https://doi.org/10.1109/SoutheastCon63549.2026.11476455) · [arXiv](https://arxiv.org/abs/2609.02861) · [what it is, in plain terms](https://cagritemel.com/blog/why-did-the-robot-stop.html)
-- **CT-SAFR** - safe and interpretable chain-of-thought reasoning for autonomous robots. IEEE CAI 2026, pp. 598–603 · [doi](https://doi.org/10.1109/CAI68641.2026.11536646)
+- **TRACE** - every autonomous action traced back to sensor evidence through a documented causal chain. IEEE SoutheastCon 2026, pp. 1-6 · [doi](https://doi.org/10.1109/SoutheastCon63549.2026.11476455) · [arXiv](https://arxiv.org/abs/2609.02861) · [what it is, in plain terms](https://cagritemel.com/blog/why-did-the-robot-stop.html)
+- **CT-SAFR** - safe and interpretable chain-of-thought reasoning for autonomous robots. IEEE CAI 2026, pp. 598-603 · [doi](https://doi.org/10.1109/CAI68641.2026.11536646)
 - **Domain-specific vs general-purpose LLMs in orthodontics** - a blinded comparison against GPT-4o, Gemini and Llama. *Dentistry Journal* 14(4):219, 2026 · [doi](https://doi.org/10.3390/dj14040219)
 - **CogniTest** - an empirical framework for LLM-assisted test automation. Preprint · [doi](https://doi.org/10.36227/techrxiv.176315879.96821044/v1)
 
